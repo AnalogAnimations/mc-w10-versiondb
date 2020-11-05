@@ -1,5 +1,5 @@
 Releases
-985D1EE4-0E9D-49DE-9A99-E208ADC08D0C Microsoft.MinecraftUWP_0.130.0.0_x64__8wekyb3d8bbwe.Appx
+b39a0e4b-e0af-4648-8a0f-54cd85810e65 Microsoft.MinecraftUWP_0.130.0.0_x64__8wekyb3d8bbwe.Appx
 4D92D8BE-3E26-4E55-B737-337D66EBDD27 Microsoft.MinecraftUWP_0.130.0.0_x86__8wekyb3d8bbwe.Appx
 4B64779C-D1CD-4659-B1C5-03C858232579 Microsoft.MinecraftUWP_0.131.0.0_x64__8wekyb3d8bbwe.Appx
 1EE5AC16-D2EA-4CAB-A4B8-ACE4BAA305FD Microsoft.MinecraftUWP_0.131.0.0_x86__8wekyb3d8bbwe.Appx
